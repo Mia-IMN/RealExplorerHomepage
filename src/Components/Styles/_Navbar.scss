@@ -1,0 +1,10 @@
+.Navbar{
+    opacity: 0;
+    display: flex;
+    flex-direction: column;
+}
+@media (max-width: 1420px){
+    .Navbar{
+        opacity: 1;
+    }
+}
